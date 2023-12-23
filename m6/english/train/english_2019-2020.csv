@@ -1,0 +1,1631 @@
+year,no,instruction,input,result,isAnswerable,isMultipleChoice,isSingleChoiceSolution
+2020,1,"Dialog1 : At Rose's House
+              Rose :  Are you superstitious?
+              Suda : _1_
+              Rose : Er..it's a belief based on fear or false ideas. For example,
+                          many people believe that Friday the 13th is an unlucky
+                          day. _2_
+             Suda : Well, I _3_ I'm a bit superstitious then. I had a car
+                         accident last Friday and it was Friday the13th.
+             Rose : Did you get hurt?
+             Suda : _4_ How about some coffee?
+             Rose : _5_","1. I don't agree.
+2. I know exactly.
+3. What's that?
+4. How do you spell it?
+5. What's new?",3. What's that?,TRUE,TRUE,TRUE
+2020,2,"Dialog1 : At Rose's House
+              Rose :  Are you superstitious?
+              Suda : _1_
+              Rose : Er..it's a belief based on fear or false ideas. For example,
+                          many people believe that Friday the 13th is an unlucky
+                          day. _2_
+             Suda : Well, I _3_ I'm a bit superstitious then. I had a car
+                         accident last Friday and it was Friday the13th.
+             Rose : Did you get hurt?
+             Suda : _4_ How about some coffee?
+             Rose : _5_","1. Are you for me?
+2. Did you say something?
+3. Do you hear me?
+4. How do you like it?
+5. What do you think?",5. What do you think?,TRUE,TRUE,TRUE
+2020,3,"Dialog1 : At Rose's House
+              Rose :  Are you superstitious?
+              Suda : _1_
+              Rose : Er..it's a belief based on fear or false ideas. For example,
+                          many people believe that Friday the 13th is an unlucky
+                          day. _2_
+             Suda : Well, I _3_ I'm a bit superstitious then. I had a car
+                         accident last Friday and it was Friday the13th.
+             Rose : Did you get hurt?
+             Suda : _4_ How about some coffee?
+             Rose : _5_","1. don't believe
+2. guess
+3 can't say
+4. promise
+5. don't think",2. guess,TRUE,TRUE,TRUE
+2020,4,"Dialog1 : At Rose's House
+              Rose :  Are you superstitious?
+              Suda : _1_
+              Rose : Er..it's a belief based on fear or false ideas. For example,
+                          many people believe that Friday the 13th is an unlucky
+                          day. _2_
+             Suda : Well, I _3_ I'm a bit superstitious then. I had a car
+                         accident last Friday and it was Friday the13th.
+             Rose : Did you get hurt?
+             Suda : _4_ How about some coffee?
+             Rose : _5_","1. It's better.
+2. I'm delighted.
+3  Don't be afraid.
+4. Not even a scratch.
+5. Nothing to lose.",4. Not even a scratch.,TRUE,TRUE,TRUE
+2020,5,"Dialog1 : At Rose's House
+              Rose :  Are you superstitious?
+              Suda : _1_
+              Rose : Er..it's a belief based on fear or false ideas. For example,
+                          many people believe that Friday the 13th is an unlucky
+                          day. _2_
+             Suda : Well, I _3_ I'm a bit superstitious then. I had a car
+                         accident last Friday and it was Friday the13th.
+             Rose : Did you get hurt?
+             Suda : _4_ How about some coffee?
+             Rose : _5_","1. It doesn't matter.
+2. That sounds good.
+3. Sooner or later.
+4. Yes, we shall.
+5. No, I won't.",2. That sounds good.,TRUE,TRUE,TRUE
+2020,6,"Dialog 2 : On the coach
+                Tourassistant : Ladies and gentlemen. _6_ before we board for
+                                         the cruise.
+                Tourist :            Sorry to interrupt, but _7_ I can't hear you.
+                Tourassistant : Certainly. _8_ to always have your passport with
+                                         you or else you won't be allowed to get on the boat.
+                 Tourist :           _9_ I don't have my passport. What should I do?
+                 Tourassistant : (Sighing) _10_ ..","1. Listen to my description
+2. I think it's a good instruction
+3. Let me tell you my intention
+4. Please declare your subscription
+5. I've got some information for you",5. I've got some information for you,TRUE,TRUE,TRUE
+2020,7,"Dialog 2 : On the coach
+                Tourassistant : Ladies and gentlemen. _6_ before we board for
+                                         the cruise.
+                Tourist :            Sorry to interrupt, but _7_ I can't hear you.
+                Tourassistant : Certainly. _8_ to always have your passport with
+                                         you or else you won't be allowed to get on the boat.
+                 Tourist :           _9_ I don't have my passport. What should I do?
+                 Tourassistant : (Sighing) _10_ ..","1. do you mind making a loud noise?
+2. would you like to speak out?
+3. could you please speak a little louder?
+4. can you lower your volume?
+5. do you want to break in?",3. could you please speak a little louder?,TRUE,TRUE,TRUE
+2020,8,"Dialog 2 : On the coach
+                Tourassistant : Ladies and gentlemen. _6_ before we board for
+                                         the cruise.
+                Tourist :            Sorry to interrupt, but _7_ I can't hear you.
+                Tourassistant : Certainly. _8_ to always have your passport with
+                                         you or else you won't be allowed to get on the boat.
+                 Tourist :           _9_ I don't have my passport. What should I do?
+                 Tourassistant : (Sighing) _10_ ..","1. It's a pleasure
+2. It's rather strange
+3. How nice of you
+4. Don't remember
+5. Please be sure",5. Please be sure,TRUE,TRUE,TRUE
+2020,9,"Dialog 2 : On the coach
+                Tourassistant : Ladies and gentlemen. _6_ before we board for
+                                         the cruise.
+                Tourist :            Sorry to interrupt, but _7_ I can't hear you.
+                Tourassistant : Certainly. _8_ to always have your passport with
+                                         you or else you won't be allowed to get on the boat.
+                 Tourist :           _9_ I don't have my passport. What should I do?
+                 Tourassistant : (Sighing) _10_ ..","1. Hopefully,
+2. Truly,
+3. Good job!
+4. How great!
+5. Oh, no!","5. Oh, no!",TRUE,TRUE,TRUE
+2020,10,"Dialog 2 : On the coach
+                Tourassistant : Ladies and gentlemen. _6_ before we board for
+                                         the cruise.
+                Tourist :            Sorry to interrupt, but _7_ I can't hear you.
+                Tourassistant : Certainly. _8_ to always have your passport with
+                                         you or else you won't be allowed to get on the boat.
+                 Tourist :           _9_ I don't have my passport. What should I do?
+                 Tourassistant : (Sighing) _10_ ..","1. You're so lucky.
+2. You made my day.
+3. Are you serious?
+4. Is it your mistake?
+5. Serves you right.",3. Are you serious?,TRUE,TRUE,TRUE
+2020,11,"Situational Dialogs (Items11-15)
+Directions: Read each situ ation and choose the BEST alternative.
+
+Situation: Jack is annoyed with his neighbor's dog since it usually
+                barks at night and he cannot sleep. He politely says to
+                his neighbor, ""______""","1. Please keep quiet.
+2. I didn't mean to blame you.
+3. You must get rid of your dog.
+4. Could you calm down your dog?
+5. Don't you know you're a nuisance?",4. Could you calm down your dog?,TRUE,TRUE,TRUE
+2020,12,"Situational Dialogs (Items11-15)
+Directions: Read each situ ation and choose the BEST alternative.
+
+Situation: You arranged a potluck party. Before your friend left the
+party, she expressed her gratitude and said,""_____""","1. It was an awful party.
+2. Thank you for inviting me.
+3.I felt like I was bothering you.
+4. You must have spent so much money.
+5. I hope I didn't upset you.",2. Thank you for inviting me.,TRUE,TRUE,TRUE
+2020,13,"Situational Dialogs (Items11-15)
+Directions: Read each situ ation and choose the BEST alternative.
+
+Situation: Alan would like Nan to see a movie with him this Saturday,
+                but Nan cannot make it. She says,""_____""","1. Oh, you're my friend indeed.
+2. I look forward to it.
+3. That's not important.
+4. I twas just what I hoped for.
+5. I'm not free.",5. I'm not free.,TRUE,TRUE,TRUE
+2020,14,"Situational Dialogs (Items11-15)
+Directions: Read each situ ation and choose the BEST alternative.
+
+Situation: Bob helped Alice to remove the jammed paper from the
+printer. When Alice thanked him, he said, ""_____""","1. No problem.
+2. I don't mind.
+3. Don't bother.
+4. Take it easy.
+5. That's a nice printer.",1. No problem.,TRUE,TRUE,TRUE
+2020,15,"Situational Dialogs (Items11-15)
+Directions: Read each situ ation and choose the BEST alternative.
+
+Situation: Donald, your student, has been named the top student in
+the school. You meet him and say, ""_____"" ","1. You're my destiny.
+2. I'm so proud of you.
+3. Better luck next time.
+4. Thank you for your time.
+5. Let it be yours not mine.",2. I'm so proud of you.,TRUE,TRUE,TRUE
+2020,16,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+The manager has no objection to ____ the meeting since his daughter
+is ill.","1. John not attend
+2. John does not attend
+3. John's not attending
+4. John not to attend
+5. John's not to attend",3. John's not attending,TRUE,TRUE,TRUE
+2020,17,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+As soon as the examinees ______ the test, the score ______.","1. finish, will report
+2. will finish, will report
+3. finish, will be reported
+4. will finish, will be reported
+5. will finish, is reported","3. finish, will be reported",TRUE,TRUE,TRUE
+2020,18,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+The product manager is explaining to the visitors _____.","1. when does each machine in the shop work
+2. when each machine in the shop is working
+3. how did each machine in the shop work
+4. how is each machine in the shop working
+5. how each machine in the shop works",5. how each machine in the shop works,TRUE,TRUE,TRUE
+2020,19,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+John:   Peter did not pass the driving test yesterday.
+Mona: Oh, didn't he? _____.","1. My sister did too
+2. So didn't my sister
+3. My sister didn't neither
+4. Neither my sister did
+5. My sister didn't either",5. My sister didn't either,TRUE,TRUE,TRUE
+2020,20,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+The villagers tried to capture the _____ that had been feeding on their
+chickens.","1.long snake of three meters
+2.three meters' long snake
+3.three-meter-long snake
+4.snake of a three-meter-long
+5.snake, three-meters-long",3.three-meter-long snake,TRUE,TRUE,TRUE
+2020,21,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+Does anybody know _____?","1. whom that bike belong to
+2. to whom does that bike belong
+3. to who does that bike belong
+4. who does that bike belongs to
+5. to whom that bike belongs",5. to whom that bike belongs,TRUE,TRUE,TRUE
+2020,22,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+_____ that Jake started his term paper later than his classmates, he
+was the first to hand it in.","1. Despite
+2. Despite the fact
+3. Although
+4. In spite of
+5. Even if",2. Despite the fact,TRUE,TRUE,TRUE
+2020,23,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+The salesperson asked that the customer _____ the receipt in order
+to exchange the good spreviously bought.","1. show
+2. shows
+3. to show
+4. must show
+5. showing",1. show,TRUE,TRUE,TRUE
+2020,24,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+Three-hundred and sixty baht _____ too much for these pants.
+Can I have them for less?","1. is
+2. had been
+3. are being
+4. have been
+5. has been",1. is,TRUE,TRUE,TRUE
+2020,25,"Sentence Completion (Items16-25)
+Directions: Read each sentence and choose the alternative that BEST
+completes it.
+
+During World War II, all inhabitants of that small village in the
+North of Thailand _____.","1. were killed with poison
+2. being killed by poisoning
+3. killed of poison
+4. had been killed of poison
+5. had killed by poisoning",1. were killed with poison,TRUE,TRUE,TRUE
+2020,26,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items26-30)
+
+The ostrich is probably the best known among those birds that
+cannot fly .They are being the largest living bird, and the only bird
+                           26
+that is ever having two toes on each foot. It used its great speed and
+            27                                                       28
+exceptional eyesight by helping it escape from its enemies. Its long
+                                       29
+leg scarry it in giant strides of above five meters at speeding up to
+                                                                                      30
+sixty kilometers per hour.","1. There were
+2. It is
+3. It has been
+4. They were
+5. It was",2. It is,TRUE,TRUE,TRUE
+2020,27,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items26-30)
+
+The ostrich is probably the best known among those birds that
+cannot fly .They are being the largest living bird, and the only bird
+                           26
+that is ever having two toes on each foot. It used its great speed and
+            27                                                       28
+exceptional eyesight by helping it escape from its enemies. Its long
+                                       29
+leg scarry it in giant strides of above five meters at speeding up to
+                                                                                      30
+sixty kilometers per hour.","1. that has
+2. which wil lnot have
+3. that should have
+4. which must have
+5. that would not have",1. that has,TRUE,TRUE,TRUE
+2020,28,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items26-30)
+
+The ostrich is probably the best known among those birds that
+cannot fly .They are being the largest living bird, and the only bird
+                           26
+that is ever having two toes on each foot. It used its great speed and
+            27                                                       28
+exceptional eyesight by helping it escape from its enemies. Its long
+                                       29
+leg scarry it in giant strides of above five meters at speeding up to
+                                                                                      30
+sixty kilometers per hour.","1. is using
+2. will be using
+3. uses
+4. has used
+5. was using",3. uses,TRUE,TRUE,TRUE
+2020,29,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items26-30)
+
+The ostrich is probably the best known among those birds that
+cannot fly .They are being the largest living bird, and the only bird
+                           26
+that is ever having two toes on each foot. It used its great speed and
+            27                                                       28
+exceptional eyesight by helping it escape from its enemies. Its long
+                                       29
+leg scarry it in giant strides of above five meters at speeding up to
+                                                                                      30
+sixty kilometers per hour.","1. helps
+2. to help
+3. helping
+4. helped
+5. to be helping",2. to help,TRUE,TRUE,TRUE
+2020,30,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items26-30)
+
+The ostrich is probably the best known among those birds that
+cannot fly .They are being the largest living bird, and the only bird
+                           26
+that is ever having two toes on each foot. It used its great speed and
+            27                                                       28
+exceptional eyesight by helping it escape from its enemies. Its long
+                                       29
+leg scarry it in giant strides of above five meters at speeding up to
+                                                                                      30
+sixty kilometers per hour.","1. their speed
+2.its speeding
+3. speeds
+4. a speeding
+5. some speed",3. speeds,TRUE,TRUE,TRUE
+2020,31,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items31-35)
+
+Dear Linda,
+I'm home at last. I'm sorry that I didn't write to you sooner as
+                                                                                            31
+jet lag. I have had to stay in bed more of the time for two days.
+                                                              32
+The flight was delayed for two hours, and it is quite bored to get
+                                                                             33
+stuck at the airport!
+Anyway, I'm back at home for all my family. But I am really missed
+                                          34                                         35
+you, your mum and your dad. I hope one day I'll come back to visit you
+again.
+Yours sincerely,
+Tidarat","1. if
+2. due to
+3. when
+4. in case of
+5. so as",2. due to,TRUE,TRUE,TRUE
+2020,32,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items31-35)
+
+Dear Linda,
+I'm home at last. I'm sorry that I didn't write to you sooner as
+                                                                                            31
+jet lag. I have had to stay in bed more of the time for two days.
+                                                              32
+The flight was delayed for two hours, and it is quite bored to get
+                                                                             33
+stuck at the airport!
+Anyway, I'm back at home for all my family. But I am really missed
+                                          34                                         35
+you, your mum and your dad. I hope one day I'll come back to visit you
+again.
+Yours sincerely,
+Tidarat","1. most times
+2. most of times
+3. most of the time
+4. much more of the time
+5. many more times",3. most of the time,TRUE,TRUE,TRUE
+2020,33,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items31-35)
+
+Dear Linda,
+I'm home at last. I'm sorry that I didn't write to you sooner as
+                                                                                            31
+jet lag. I have had to stay in bed more of the time for two days.
+                                                              32
+The flight was delayed for two hours, and it is quite bored to get
+                                                                             33
+stuck at the airport!
+Anyway, I'm back at home for all my family. But I am really missed
+                                          34                                         35
+you, your mum and your dad. I hope one day I'll come back to visit you
+again.
+Yours sincerely,
+Tidarat","1. was quite boring
+2. was quite bored
+3. had been quite boring
+4. had been quite bored
+5. quite bored",1. was quite boring,TRUE,TRUE,TRUE
+2020,34,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items31-35)
+
+Dear Linda,
+I'm home at last. I'm sorry that I didn't write to you sooner as
+                                                                                            31
+jet lag. I have had to stay in bed more of the time for two days.
+                                                              32
+The flight was delayed for two hours, and it is quite bored to get
+                                                                             33
+stuck at the airport!
+Anyway, I'm back at home for all my family. But I am really missed
+                                          34                                         35
+you, your mum and your dad. I hope one day I'll come back to visit you
+again.
+Yours sincerely,
+Tidarat","1. between
+2. with
+3. within
+4. nearby
+5. herewith",2. with,TRUE,TRUE,TRUE
+2020,35,"Error Correction (Items26-35)
+Directions: In each short passage below, five mistakes are underlined.
+                  Choose the best correction for each mistake.
+
+(Items31-35)
+
+Dear Linda,
+I'm home at last. I'm sorry that I didn't write to you sooner as
+                                                                                            31
+jet lag. I have had to stay in bed more of the time for two days.
+                                                              32
+The flight was delayed for two hours, and it is quite bored to get
+                                                                             33
+stuck at the airport!
+Anyway, I'm back at home for all my family. But I am really missed
+                                          34                                         35
+you, your mum and your dad. I hope one day I'll come back to visit you
+again.
+Yours sincerely,
+Tidarat","1. had really missed
+2. was really missing
+3. really missed
+4. really miss
+5. had really been missing",4. really miss,TRUE,TRUE,TRUE
+2020,36,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. sometimes the traffic became the worst
+2. sometimes the worst thing was the traffic
+3. the traffic is sometimes worse than
+4. sometimes the traffic is not as bad as
+5. the traffic sometimes became worse and worse",3. the traffic is sometimes worse than,TRUE,TRUE,TRUE
+2020,37,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. It can depress any body
+2. That is a depressed situation for somebody else
+3. That may cause a depressing person
+4. It may be depressing for nobody else
+5. When it depressed any body else",1. It can depress any body,TRUE,TRUE,TRUE
+2020,38,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. their disable forward movement
+2. the disabled moving forward
+3. their inability to moving forward
+4. forward movement wasn't possible
+5. being unable to move forward",5. being unable to move forward,TRUE,TRUE,TRUE
+2020,39,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. Although
+2. However,
+3. Therefore,
+4. Even if
+5. In addition,","2. However,",TRUE,TRUE,TRUE
+2020,40,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. can solve easily
+2. can be easily solved
+3. being solve deasily
+4. would be solved at ease
+5. could ease the solution",2. can be easily solved,TRUE,TRUE,TRUE
+2020,41,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. It has only one rule
+2. The only one rule is that
+3. That rule is the only one
+4. It's the one rule that
+5 There's one rule",5 There's one rule,TRUE,TRUE,TRUE
+2020,42,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. that is
+2. can be that
+3. what is
+4. that it is
+5. it must be",1. that is,TRUE,TRUE,TRUE
+2020,43,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. will relieve of traffic jams
+2. would have relieved of traffic jams
+3. will the traffic jams be relieved from
+4. had the traffic jams been relieved
+5. will be relieved of traffic jams",5. will be relieved of traffic jams,TRUE,TRUE,TRUE
+2020,44,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. Let's the citizens be good
+2. May good citizens they remain
+3. Let's they remain good citizens
+4. Being good citizens they'll remain
+5. Let's be good citizens",5. Let's be good citizens,TRUE,TRUE,TRUE
+2020,45,"Part II: Writing Ability (Items36-45)
+Directions: Choose the best alternative to complete each blank in the
+                  passage.
+Traffic Conditions
+Have you ever been caught in a traffic jam inside our school? Before
+school and after school, 36._____ in the center of our busy city. 37._____
+who is rushing some where. They are sure to become annoyed because of
+38._____ fast enough 39._____ this problem 40._____ if everyone cooperates.
+41._____ we should all remember - 42._____ ""Keep to the right"" If we
+always follow this rule, the hall and stairs 43._____ 44._____ and ""do right
+45._____"".","1. to keep up with the right ones
+2 so as to keep togethe rwith the right ones
+3. by keeping to the right
+4. as being kept on th eright side
+5. when kept on the right",3. by keeping to the right,TRUE,TRUE,TRUE
+2020,46,"Part III: Reading Ability (Items46-80)
+1. Vocabulary (Items46-50)
+    Directions: Choose the BEST alternatives to complete the passage.
+
+TRAVELLING WITH CHILDREN:
+Tips, tricks and good ideas
+
+BOOKS
+If your child suffers fromt ravel sickness, try to avoid books as
+(46)_____ in the car. However, for children who travel well, a
+coloring book and a set of crayons, or a picture book, will keep
+them entertained on long (47) _______.
+
+FOOD
+Try not to pack cans off izzy drinks or chocolates as (48)_____
+to eat in the car. Keep a damp cloth in a plastic bag or box
+to (49)_____ their faces and fingers and a plastic bag for wrappers
+and other (50)_____.","1. entertainment
+2. education
+3. supplement
+4. pastime
+5. exercise",1. entertainment,TRUE,TRUE,TRUE
+2020,47,"Part III: Reading Ability (Items46-80)
+1. Vocabulary (Items46-50)
+    Directions: Choose the BEST alternatives to complete the passage.
+
+TRAVELLING WITH CHILDREN:
+Tips, tricks and good ideas
+
+BOOKS
+If your child suffers fromt ravel sickness, try to avoid books as
+(46)_____ in the car. However, for children who travel well, a
+coloring book and a set of crayons, or a picture book, will keep
+them entertained on long (47) _______.
+
+FOOD
+Try not to pack cans off izzy drinks or chocolates as (48)_____
+to eat in the car. Keep a damp cloth in a plastic bag or box
+to (49)_____ their faces and fingers and a plastic bag for wrappers
+and other (50)_____.","1. voyages
+2. roamings
+3. strolls
+4. wanderings
+5. journeys",5. journeys,TRUE,TRUE,TRUE
+2020,48,"Part III: Reading Ability (Items46-80)
+1. Vocabulary (Items46-50)
+    Directions: Choose the BEST alternatives to complete the passage.
+
+TRAVELLING WITH CHILDREN:
+Tips, tricks and good ideas
+
+BOOKS
+If your child suffers fromt ravel sickness, try to avoid books as
+(46)_____ in the car. However, for children who travel well, a
+coloring book and a set of crayons, or a picture book, will keep
+them entertained on long (47) _______.
+
+FOOD
+Try not to pack cans off izzy drinks or chocolates as (48)_____
+to eat in the car. Keep a damp cloth in a plastic bag or box
+to (49)_____ their faces and fingers and a plastic bag for wrappers
+and other (50)_____.","1. appetizers
+2. snacks
+3. meals
+4. breaks
+5. feasts",2. snacks,TRUE,TRUE,TRUE
+2020,49,"Part III: Reading Ability (Items46-80)
+1. Vocabulary (Items46-50)
+    Directions: Choose the BEST alternatives to complete the passage.
+
+TRAVELLING WITH CHILDREN:
+Tips, tricks and good ideas
+
+BOOKS
+If your child suffers fromt ravel sickness, try to avoid books as
+(46)_____ in the car. However, for children who travel well, a
+coloring book and a set of crayons, or a picture book, will keep
+them entertained on long (47) _______.
+
+FOOD
+Try not to pack cans off izzy drinks or chocolates as (48)_____
+to eat in the car. Keep a damp cloth in a plastic bag or box
+to (49)_____ their faces and fingers and a plastic bag for wrappers
+and other (50)_____.","1. touch
+2 rub
+3 pat
+4. strike
+5. wipe",5. wipe,TRUE,TRUE,TRUE
+2020,50,"Part III: Reading Ability (Items46-80)
+1. Vocabulary (Items46-50)
+    Directions: Choose the BEST alternatives to complete the passage.
+
+TRAVELLING WITH CHILDREN:
+Tips, tricks and good ideas
+
+BOOKS
+If your child suffers fromt ravel sickness, try to avoid books as
+(46)_____ in the car. However, for children who travel well, a
+coloring book and a set of crayons, or a picture book, will keep
+them entertained on long (47) _______.
+
+FOOD
+Try not to pack cans off izzy drinks or chocolates as (48)_____
+to eat in the car. Keep a damp cloth in a plastic bag or box
+to (49)_____ their faces and fingers and a plastic bag for wrappers
+and other (50)_____.","1. cartons
+2. boxes
+3. trash
+4. cans
+5. dirt",3. trash,TRUE,TRUE,TRUE
+2020,51,"2. Reading Comprehension (Items51-80)
+Directions: Read the following and choose the BEST alternative to
+                  complete the statements that follow.
+
+(Items51-55)
+
+Here is a ""personally conducted excursion""
+of the kind that occurs daily in millions of
+homes.
+Route: Up the stairway and along the hall to the
+            bathroom.
+Time:  10.00 a.m. or thereabouts.
+Equipment:  A couple of soft towels, a sponge, a wash
+                    cloth and a cake of Ivory Soap.
+On arrival: Fill the bathtub a little less than half full
+                  of warm-not hot-water. Put baby in
+the bath. Moisten the wash cloth and apply soap, first to the face and neck,then to the arms, next
+to the body, and last, to the legs and feet, Fill the sponge with water from the tub and squeeze it
+over the face, arms, body and legs, repeating this until all dirt and soap are removed. Dry by
+""patting""-not rubbing-with the towels.
+The only soap that is worthy of comparison with Ivory is genuine, unadulterated, white Castile
+Soap. It is on sale in very few stores. Its priceis from 25 to 40 cents a pound. The ""Castile""
+Soap, which is sold at 20 cents a pound or less, is almost invariably a cheap imitation of a
+meritorious article. But even genuine Castile Soap, if you can get it, (and the chances are that
+you cannot) is no better than, and not as pure as, Ivory Soap. And it costs about three times as
+much.
+                  Ivory Soap.......................99.44/100 Per Cent. Pure.","The ad is trying to sell _____.
+1. a towel
+2. a sponge
+3. a wash cloth
+4. soap
+5. moisturizer",4. soap,TRUE,TRUE,TRUE
+2020,52,"2. Reading Comprehension (Items51-80)
+Directions: Read the following and choose the BEST alternative to
+                  complete the statements that follow.
+
+(Items51-55)
+
+Here is a ""personally conducted excursion""
+of the kind that occurs daily in millions of
+homes.
+Route: Up the stairway and along the hall to the
+            bathroom.
+Time:  10.00 a.m. or thereabouts.
+Equipment:  A couple of soft towels, a sponge, a wash
+                    cloth and a cake of Ivory Soap.
+On arrival: Fill the bathtub a little less than half full
+                  of warm-not hot-water. Put baby in
+the bath. Moisten the wash cloth and apply soap, first to the face and neck,then to the arms, next
+to the body, and last, to the legs and feet, Fill the sponge with water from the tub and squeeze it
+over the face, arms, body and legs, repeating this until all dirt and soap are removed. Dry by
+""patting""-not rubbing-with the towels.
+The only soap that is worthy of comparison with Ivory is genuine, unadulterated, white Castile
+Soap. It is on sale in very few stores. Its priceis from 25 to 40 cents a pound. The ""Castile""
+Soap, which is sold at 20 cents a pound or less, is almost invariably a cheap imitation of a
+meritorious article. But even genuine Castile Soap, if you can get it, (and the chances are that
+you cannot) is no better than, and not as pure as, Ivory Soap. And it costs about three times as
+much.
+                  Ivory Soap.......................99.44/100 Per Cent. Pure.","The word excursion in the phrase ""personally conducted
+excursion"" refers to going to the _____.
+1. office
+2. bathroom
+3. hall
+4. stairway
+5. house",2. bathroom,TRUE,TRUE,TRUE
+2020,53,"2. Reading Comprehension (Items51-80)
+Directions: Read the following and choose the BEST alternative to
+                  complete the statements that follow.
+
+(Items51-55)
+
+Here is a ""personally conducted excursion""
+of the kind that occurs daily in millions of
+homes.
+Route: Up the stairway and along the hall to the
+            bathroom.
+Time:  10.00 a.m. or thereabouts.
+Equipment:  A couple of soft towels, a sponge, a wash
+                    cloth and a cake of Ivory Soap.
+On arrival: Fill the bathtub a little less than half full
+                  of warm-not hot-water. Put baby in
+the bath. Moisten the wash cloth and apply soap, first to the face and neck,then to the arms, next
+to the body, and last, to the legs and feet, Fill the sponge with water from the tub and squeeze it
+over the face, arms, body and legs, repeating this until all dirt and soap are removed. Dry by
+""patting""-not rubbing-with the towels.
+The only soap that is worthy of comparison with Ivory is genuine, unadulterated, white Castile
+Soap. It is on sale in very few stores. Its priceis from 25 to 40 cents a pound. The ""Castile""
+Soap, which is sold at 20 cents a pound or less, is almost invariably a cheap imitation of a
+meritorious article. But even genuine Castile Soap, if you can get it, (and the chances are that
+you cannot) is no better than, and not as pure as, Ivory Soap. And it costs about three times as
+much.
+                  Ivory Soap.......................99.44/100 Per Cent. Pure.","According to the ad, the product is suitable for _____.
+1. babies
+2. men
+3. women
+4. fathers
+5. mothers",1. babies,TRUE,TRUE,TRUE
+2020,54,"2. Reading Comprehension (Items51-80)
+Directions: Read the following and choose the BEST alternative to
+                  complete the statements that follow.
+
+(Items51-55)
+
+Here is a ""personally conducted excursion""
+of the kind that occurs daily in millions of
+homes.
+Route: Up the stairway and along the hall to the
+            bathroom.
+Time:  10.00 a.m. or thereabouts.
+Equipment:  A couple of soft towels, a sponge, a wash
+                    cloth and a cake of Ivory Soap.
+On arrival: Fill the bathtub a little less than half full
+                  of warm-not hot-water. Put baby in
+the bath. Moisten the wash cloth and apply soap, first to the face and neck,then to the arms, next
+to the body, and last, to the legs and feet, Fill the sponge with water from the tub and squeeze it
+over the face, arms, body and legs, repeating this until all dirt and soap are removed. Dry by
+""patting""-not rubbing-with the towels.
+The only soap that is worthy of comparison with Ivory is genuine, unadulterated, white Castile
+Soap. It is on sale in very few stores. Its priceis from 25 to 40 cents a pound. The ""Castile""
+Soap, which is sold at 20 cents a pound or less, is almost invariably a cheap imitation of a
+meritorious article. But even genuine Castile Soap, if you can get it, (and the chances are that
+you cannot) is no better than, and not as pure as, Ivory Soap. And it costs about three times as
+much.
+                  Ivory Soap.......................99.44/100 Per Cent. Pure.","The product should be applied in the last step to the _____.
+1. neck
+2. body
+3. face
+4. legs and feet
+5. arms and shoulders",4. legs and feet,TRUE,TRUE,TRUE
+2020,55,"2. Reading Comprehension (Items51-80)
+Directions: Read the following and choose the BEST alternative to
+                  complete the statements that follow.
+
+(Items51-55)
+
+Here is a ""personally conducted excursion""
+of the kind that occurs daily in millions of
+homes.
+Route: Up the stairway and along the hall to the
+            bathroom.
+Time:  10.00 a.m. or thereabouts.
+Equipment:  A couple of soft towels, a sponge, a wash
+                    cloth and a cake of Ivory Soap.
+On arrival: Fill the bathtub a little less than half full
+                  of warm-not hot-water. Put baby in
+the bath. Moisten the wash cloth and apply soap, first to the face and neck,then to the arms, next
+to the body, and last, to the legs and feet, Fill the sponge with water from the tub and squeeze it
+over the face, arms, body and legs, repeating this until all dirt and soap are removed. Dry by
+""patting""-not rubbing-with the towels.
+The only soap that is worthy of comparison with Ivory is genuine, unadulterated, white Castile
+Soap. It is on sale in very few stores. Its priceis from 25 to 40 cents a pound. The ""Castile""
+Soap, which is sold at 20 cents a pound or less, is almost invariably a cheap imitation of a
+meritorious article. But even genuine Castile Soap, if you can get it, (and the chances are that
+you cannot) is no better than, and not as pure as, Ivory Soap. And it costs about three times as
+much.
+                  Ivory Soap.......................99.44/100 Per Cent. Pure.","This product is recommended because it is _____.
+1. pure
+2 genuine
+3. on sale
+4. sold in a few stores
+5. made from ivory",1. pure,TRUE,TRUE,TRUE
+2020,56,"(Items56-60)
+
+BLONDIE
+
+ACCORDING TO THIS WEATHER APP THERE'S A 
+SEVENTY PERCENT CHANCE
+OF RAIN THIS AFTERNOON
+
+THAT'S A SHAME DEAR
+
+WHY?
+SEVENTY PERCENT SOUNDS LIKE IT'S PROBABLY GOING TO RIAN
+MAYBE, BUT NOT IN THE
+SANDWICH BAR AT THE
+NINETEENTH HOLE!","The weather forecast says that _____.
+1. the weather is clear in the morning
+2. only a 30 percent chance of rain will cover the area
+3. there will be heavy rain at the golf course
+4. there is a70 percent chance of rain in the afternoon
+5. heavy rain in the afternoon is not expected",4. there is a70 percent chance of rain in the afternoon,TRUE,TRUE,TRUE
+2020,57,"(Items56-60)
+
+BLONDIE
+
+ACCORDING TO THIS WEATHER APP THERE'S A 
+SEVENTY PERCENT CHANCE
+OF RAIN THIS AFTERNOON
+
+THAT'S A SHAME DEAR
+
+WHY?
+SEVENTY PERCENT SOUNDS LIKE IT'S PROBABLY GOING TO RIAN
+MAYBE, BUT NOT IN THE
+SANDWICH BAR AT THE
+NINETEENTH HOLE!","When the woman says, ""That's a shame, dear"", she_____.
+1. feels ashamed that her husband will go golfing
+2. assumes that her husband will not be able to go golfing
+3. is sorry that her husband wants to play golfin the afternoon
+4. is disappointed that she cannot go golfing with him
+5. worries that her husband will not come back before rain",2. assumes that her husband will not be able to go golfing,TRUE,TRUE,TRUE
+2020,58,"(Items56-60)
+
+BLONDIE
+
+ACCORDING TO THIS WEATHER APP THERE'S A 
+SEVENTY PERCENT CHANCE
+OF RAIN THIS AFTERNOON
+
+THAT'S A SHAME DEAR
+
+WHY?
+SEVENTY PERCENT SOUNDS LIKE IT'S PROBABLY GOING TO RIAN
+MAYBE, BUT NOT IN THE
+SANDWICH BAR AT THE
+NINETEENTH HOLE!","The third picture shows that _____.
+1. the wife wonders if it will rain in the afternoon
+2. the wife is afraid that her husband will get hurt
+3. the husband is displeased with his wife' swarning
+4. the husband does not believe what his wife says
+5. the husband is not worried about the weather forecast",5. the husband is not worried about the weather forecast,TRUE,TRUE,TRUE
+2020,59,"(Items56-60)
+
+BLONDIE
+
+ACCORDING TO THIS WEATHER APP THERE'S A 
+SEVENTY PERCENT CHANCE
+OF RAIN THIS AFTERNOON
+
+THAT'S A SHAME DEAR
+
+WHY?
+SEVENTY PERCENT SOUNDS LIKE IT'S PROBABLY GOING TO RIAN
+MAYBE, BUT NOT IN THE
+SANDWICH BAR AT THE
+NINETEENTH HOLE!","In the third picture, the husband probably means he _____.
+1. loves playing golf very much
+2. does not know how to pla ygolf
+3. can eat break fast at the golf course
+4. has a place to shelter from the rain
+5. is sure tha the will not get wet while playing golf",4. has a place to shelter from the rain,TRUE,TRUE,TRUE
+2020,60,"(Items56-60)
+
+BLONDIE
+
+ACCORDING TO THIS WEATHER APP THERE'S A 
+SEVENTY PERCENT CHANCE
+OF RAIN THIS AFTERNOON
+
+THAT'S A SHAME DEAR
+
+WHY?
+SEVENTY PERCENT SOUNDS LIKE IT'S PROBABLY GOING TO RIAN
+MAYBE, BUT NOT IN THE
+SANDWICH BAR AT THE
+NINETEENTH HOLE!","It can be inferred from the comic that _____.
+1. some people take weather forecasts for granted
+2. some people take weather forecasts seriously
+3. nobody listens to weather forecasts
+4. the weather forecast is important for indoor activities
+5. the weather forecast is not always reliable",2. some people take weather forecasts seriously,TRUE,TRUE,TRUE
+2020,61,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","This story is about all of the following EXCEPT _____.
+1. bad behavior of truck drivers
+2. fining truck drivers who break traffic laws
+3. lorry drivers who follow traffic laws
+4. accidents caused by truck drivers
+5. traffic problems caused by careless truckers",3. lorry drivers who follow traffic laws,TRUE,TRUE,TRUE
+2020,62,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The Councils are demanding the power to fine lorry drivers who _____.
+1. drive at night without GPS
+2. pay no attention to road regulations
+3. do not follow directions
+4. drive through heavy traffic in towns
+5. drive very big and heavy trucks",2. pay no attention to road regulations,TRUE,TRUE,TRUE
+2020,63,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The statement ""driving on routes unsuitable for their lorry's size or
+weight"" (lines7-8) implies that _____.
+1. some roads are too narrow and need to be expanded
+2. other vehicles cannot pass big trucks on some roads
+3. big and heavy trucks are not dangerous to other road users
+4. many roads are in bad condition and need repair
+5. big and heavy trucks should not run on small roads",5. big and heavy trucks should not run on small roads,TRUE,TRUE,TRUE
+2020,64,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The word ""may hem"" (line 2) means _____.
+1. confusion
+2. occurrence
+3.penalties
+4. carelessness
+5. pollution",1. confusion,TRUE,TRUE,TRUE
+2020,65,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The phrase ""a spate of"" (line 5) means _____.
+1. an account of
+2. a large number of
+3. an excess of
+4. a few of
+5. a volume of",2. a large number of,TRUE,TRUE,TRUE
+2020,66,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The phrase ""using this device"" (lines13-14) refers to _____.
+1. trucks driving on roads under construction
+2. GPS misdirecting truckers to unsuitable roads
+3. lorries blocking the road in Kent
+4. the important role of GPS on truck driving
+5. the bridge being struck four times",2. GPS misdirecting truckers to unsuitable roads,TRUE,TRUE,TRUE
+2020,67,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","""Rogue lorry drivers"" (line 15) are drivers who _____.
+1. often cause traffic congestion in town
+2. always disobey traffic laws and are always fined
+3. behave badly and cause problems for others
+4. never listen too thers' troubles
+5. care about other road users",3. behave badly and cause problems for others,TRUE,TRUE,TRUE
+2020,68,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","The Councils believe that if they can fine careless truck drivers,_____.
+1. those drivers will follow traffic rules more carefully
+2. other road users will not be safe in using the roads
+3. there would be no traffic problems any longer
+4. those drivers will no longer run on narrow roads
+5. the road signs will not be damaged",1. those drivers will follow traffic rules more carefully,TRUE,TRUE,TRUE
+2020,69,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","""Congestion hotspots"" (line 15) are the places where _____.
+1. drivers are fighting to go on their ways
+2. cars are trying to pass other cars to get ahead
+3. trafficis too heavy for vehicles to move
+4. all cars are going in the same direction
+5. roads are damaged by serious accidents",3. trafficis too heavy for vehicles to move,TRUE,TRUE,TRUE
+2020,70,"(Items61-70)
+
+                        Councils' Furyat Rogue Truckers
+COUNCILS are demanding the power to fine lorry drivers causing
+mayhem in towns and villages.
+Currently, only authorities in London have the power to impose
+penalties on truckers who ignore road restrictions.
+5    The Local Government Association (LGA) highlighted a spate of
+recent incidents involving HGVs (heavy good svehicles), including
+drivers crashing into bridges or blocking streets after driving on routes
+unsuitable for their lorry's size or weight.
+      Many incidents involve drivers being directed to unsuitable routes
+10 by their satnavs (GPS).  A bridge under Middlesbrough railway station
+was struck four times, while lorries blocked the same road in Goudhurst,
+Kent, twice in two days.
+      A survey found more than half of councils in England say using this
+device is one of the most important traffic issues in their communities.
+15   Now the LGA wants all local authorities to be able to fine 'rogue' lorry
+drivers. A spokesman said fines would 'help councils unblock congestion
+hotspots...and help cyclists ride more safely'.","All of the following incidents were caused by lorry drivers EXCEPT: _____.
+1. crashing into bridges and blocking streets
+2. following GPS's to dangerous places
+3. striking the bridge under Middlesbrough four times
+4. blocking the road in Goudhurs ttwice in two days
+5. driving on roads unsuitable for their lorry's size or weight",2. following GPS's to dangerous places,TRUE,TRUE,TRUE
+2020,71,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","The first paragraph gives information about _____.
+1. what nimbus clouds are
+2. when crystallization begins
+3. what snowflakes lookl ike
+4. how snow forms
+5. how many days snow lasts",4. how snow forms,TRUE,TRUE,TRUE
+2020,72,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","Snow is created when
+1. large masses of stable clouds slowly become crystallized
+2. nimbus clouds become snowflakes and move over ground
+3. strong wind carries unstable clouds toward high ground
+4. frozen cloud spersist over a large area of highland
+5. clouds stop forming a great amount of snowflakes",1. large masses of stable clouds slowly become crystallized,TRUE,TRUE,TRUE
+2020,73,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","The word ""genesis"" (line 2) means _____.
+1. origin
+2. life
+3. falling
+4. melting
+5. movement",1. origin,TRUE,TRUE,TRUE
+2020,74,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","The word ""one"" (line 4) refers to _____.
+1. wind
+2. ground
+3. air mass
+4. snow
+5. cloud",3. air mass,TRUE,TRUE,TRUE
+2020,75,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","The word ""localized"" (line13) means _____.
+1. occurring anywhere
+2. happening within one small area
+3. existing in a remote place
+4. spreading over the ground
+5. appearing everywhere",2. happening within one small area,TRUE,TRUE,TRUE
+2020,76,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","Snow is compared to rainfall in that both snow and rainfall
+1. exist when a warm and cold air mass meet
+2. can last long and cover alarge area
+3. originate from a large mass of cumulonimbus clouds
+4. pass the process of turbulence before falling
+5. require slow and continuous crystallization",2. can last long and cover alarge area,TRUE,TRUE,TRUE
+2020,77,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","Hailstones are formed when _____.
+1. there are very sudden changes around cumulonimbus clouds
+2. there is strong circulation within cumulonimbus clouds
+3. strong circulation bursts out from inside cumulonimbus clouds
+4. cumulonimbus clouds are isolated and stable
+5. the clouds undergo slow changes",2. there is strong circulation within cumulonimbus clouds,TRUE,TRUE,TRUE
+2020,78,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","Hailstones do not last long because they _____.
+1. have layered structure resulting from cycling repeatedly
+2. prevent the sun from shining over the ground
+3. are formed on clear sunny days over hot ground with warm
+    rain
+4. are too big and too heavy to spread over the ground
+5. fall suddenly due to their densit","3. are formed on clear sunny days over hot ground with warm
+    rain",TRUE,TRUE,TRUE
+2020,79,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","All the statements are true EXCEPT: _____.
+1. a snowflake is formed through slow, continuous and steady
+    crystallization
+2. the same mass of water produces a much deeper layer of snow
+    than hail
+3. hail is denser than snow but can form a much deeper layer of
+    fallen hail
+4. heat rising from the ground prevents hailstones from falling
+5. hailstones can melt quickly on clear sunny days with warm rain","2. the same mass of water produces a much deeper layer of snow
+    than hail",TRUE,TRUE,TRUE
+2020,80,"(Items71-80)
+
+                           Getting the Drift
+Most snow falls from extensive banks of stable nimbus clouds. The
+genesis of a snowflake requires fairly slow and continuous crystallization
+with little turbulence. If the wind continues to carry clouds toward high
+ground, or if a warm air mass slides smoothly over a cold one, snow can
+5 persist for as long, and over as large a continuous area, as ordinary
+rainfall.
+Hailstones are formed in conditions of violent convection inside tall,
+isolated, unstable cumulonimbus clouds where there is very strong internal
+circulation, Mosthailstones have a layered structure, showing that they
+10 have been cycled several times between freezing and melting levels.
+Eventually the cloud grows to the point where its shadow prevents the sun
+from heating the ground which normally supplies the rising thermals
+necessary to keep the stones airborne, and so they fall in a brief, localized
+burst.
+15 Deep layers of hail do occur but, as the largest cumulonimbus clouds
+are formed on clear sunny days over hot ground, and as the same cloud
+may also precipitate warm rain, hailstones tend to melt quickly. As hail is
+macroscopically denser than fresh snow, the same mass of water will
+produce a much deeper layer of snow over a given area","It can be inferred from the passage that _____.
+1. snowflakes become snowstorms with little turbulence
+2. snowstorms and hailstorms are produced from the same kind of
+    clouds
+3. snowstorms last longer and produce ad eeper layer of hailstones than
+    hailstorms do
+4. the conditions within cloud can result in different kinds of natural
+    phenomena
+5. snow and hailstones are produced in the same way","4. the conditions within cloud can result in different kinds of natural
+    phenomena",TRUE,TRUE,TRUE
+2019,1,"Dialog Completion (Items 1 - 10) Direction: Read the dialogs and choose the expression that BEST completes each missing part. Dialog 1: At Jack's house: Jack: Hi Pam. Glad that you could come. Pam: Hi Jack. Nice to see you again. (1) Jack: Pretty good. How about you? Pam: (2) I've been working like a slave since last month. Jack: (3) I think you should get some rest. Let's go to Ben's Café, shall we? Pam: (4) but I have to submit my project the day after tomorrow. (5) Jack: All right, just let me know when you are free. ",1. Do I look nice? 2. How's it going? 3. Was the traffic very heavy? 4. What do you think? 5. How do you like this dress?,2. How's it going?,TRUE,TRUE,TRUE
+2019,2,"Dialog Completion (Items 1 - 10) Direction: Read the dialogs and choose the expression that BEST completes each missing part. Dialog 1: At Jack's house: Jack: Hi Pam. Glad that you could come. Pam: Hi Jack. Nice to see you again. (1) Jack: Pretty good. How about you? Pam: (2) I've been working like a slave since last month. Jack: (3) I think you should get some rest. Let's go to Ben's Café, shall we? Pam: (4) but I have to submit my project the day after tomorrow. (5) Jack: All right, just let me know when you are free. ",1. Very busy 2. I don't remember 3. I love my job 4. Nothing to do 5. I look OK,1. Very busy,TRUE,TRUE,TRUE
+2019,3,"Dialog Completion (Items 1 - 10) Direction: Read the dialogs and choose the expression that BEST completes each missing part. Dialog 1: At Jack's house: Jack: Hi Pam. Glad that you could come. Pam: Hi Jack. Nice to see you again. (1) Jack: Pretty good. How about you? Pam: (2) I've been working like a slave since last month. Jack: (3) I think you should get some rest. Let's go to Ben's Café, shall we? Pam: (4) but I have to submit my project the day after tomorrow. (5) Jack: All right, just let me know when you are free. ",1. How lucky! 2. Look at me 3. Have some tea 4. Make yourself at home 5. You poor thing!,5. You poor thing!,TRUE,TRUE,TRUE
+2019,4,"Dialog Completion (Items 1 - 10) Direction: Read the dialogs and choose the expression that BEST completes each missing part. Dialog 1: At Jack's house: Jack: Hi Pam. Glad that you could come. Pam: Hi Jack. Nice to see you again. (1) Jack: Pretty good. How about you? Pam: (2) I've been working like a slave since last month. Jack: (3) I think you should get some rest. Let's go to Ben's Café, shall we? Pam: (4) but I have to submit my project the day after tomorrow. (5) Jack: All right, just let me know when you are free. ","1. Actually 2. Certainly 3. I'd love to 4. Yes, of course 5. Never mind",3. I'd love to,TRUE,TRUE,TRUE
+2019,5,"Dialog Completion (Items 1 - 10) Direction: Read the dialogs and choose the expression that BEST completes each missing part. Dialog 1: At Jack's house: Jack: Hi Pam. Glad that you could come. Pam: Hi Jack. Nice to see you again. (1) Jack: Pretty good. How about you? Pam: (2) I've been working like a slave since last month. Jack: (3) I think you should get some rest. Let's go to Ben's Café, shall we? Pam: (4) but I have to submit my project the day after tomorrow. (5) Jack: All right, just let me know when you are free. ",1. I'm not sure 2. How come you missed it 3. You're very kind 4. Maybe next time 5. How nice you are,4. Maybe next time,TRUE,TRUE,TRUE
+2019,6,"Dialog 2: At a job interview Interviewer: Good morning. Are you David Scotts? (6) David: Good morning. Thank you. Interviewer: (7) David: I just got my Bachelor's degree in Marketing from the University of Toronto last June. Interviewer: (8) David: Well, when I was a student, I worked part-time as a salesperson at ABC Company last summer. Interviewer: I see. (9) David: I have a positive attitude, communication skills, and a good service mind. Interviewer: Where do you see yourself in the next five years? David: (10) I hope to be promoted to a managerial position.",1. You're welcome 2. Show me the way 3. Please have a seat 4. Nice to see you again 5. Good that you've applied,3. Please have a seat,TRUE,TRUE,TRUE
+2019,7,"Dialog 2: At a job interview Interviewer: Good morning. Are you David Scotts? (6) David: Good morning. Thank you. Interviewer: (7) David: I just got my Bachelor's degree in Marketing from the University of Toronto last June. Interviewer: (8) David: Well, when I was a student, I worked part-time as a salesperson at ABC Company last summer. Interviewer: I see. (9) David: I have a positive attitude, communication skills, and a good service mind. Interviewer: Where do you see yourself in the next five years? David: (10) I hope to be promoted to a managerial position.",1. Who are you 2. What should you do 3. Are you David Scotts 4. Where did you grow up 5. Could you tell me briefly about yourself,5. Could you tell me briefly about yourself,TRUE,TRUE,TRUE
+2019,8,"Dialog 2: At a job interview Interviewer: Good morning. Are you David Scotts? (6) David: Good morning. Thank you. Interviewer: (7) David: I just got my Bachelor's degree in Marketing from the University of Toronto last June. Interviewer: (8) David: Well, when I was a student, I worked part-time as a salesperson at ABC Company last summer. Interviewer: I see. (9) David: I have a positive attitude, communication skills, and a good service mind. Interviewer: Where do you see yourself in the next five years? David: (10) I hope to be promoted to a managerial position.",1. How do you like this company 2. When can you start work 3. Did you come here alone 4. What is your work experience 5. Could you recommend something more,4. What is your work experience,TRUE,TRUE,TRUE
+2019,9,"Dialog 2: At a job interview Interviewer: Good morning. Are you David Scotts? (6) David: Good morning. Thank you. Interviewer: (7) David: I just got my Bachelor's degree in Marketing from the University of Toronto last June. Interviewer: (8) David: Well, when I was a student, I worked part-time as a salesperson at ABC Company last summer. Interviewer: I see. (9) David: I have a positive attitude, communication skills, and a good service mind. Interviewer: Where do you see yourself in the next five years? David: (10) I hope to be promoted to a managerial position.",1. What is your motivation 2. What is your future plan 3. What are your strengths 4. What is your opinion about the job 5. What do you plan to do on your job,3. What are your strengths,TRUE,TRUE,TRUE
+2019,10,"Dialog 2: At a job interview Interviewer: Good morning. Are you David Scotts? (6) David: Good morning. Thank you. Interviewer: (7) David: I just got my Bachelor's degree in Marketing from the University of Toronto last June. Interviewer: (8) David: Well, when I was a student, I worked part-time as a salesperson at ABC Company last summer. Interviewer: I see. (9) David: I have a positive attitude, communication skills, and a good service mind. Interviewer: Where do you see yourself in the next five years? David: (10) I hope to be promoted to a managerial position.",1. Not really 2. Frankly speaking 3. Absolutely correct 4. Completely agree 5. Unfortunately wrong,2. Frankly speaking,TRUE,TRUE,TRUE
+2019,11,"Situation: After listening to her husband explain why he does not want her to buy a new diamond ring, Alice completely accepts his reasons. She says ""____""",1. I'm so jealous of you 2. It's my pleasure 3. You're so sociable 4. I couldn't agree more 5. I'm not proud of you,4. I couldn't agree more,TRUE,TRUE,TRUE
+2019,12,"Situation: Martin has just finished his speech at the conference, and Lucy really appreciates his talk. She says ""____""","1. How awful 2. Well, that's quite nice 3. What a great talk 4. You should have talked less 5. What an embarrassing performance",3. What a great talk,TRUE,TRUE,TRUE
+2019,13,"Situation: Jane is late for an appointment with Mr. Hopkins, who has been waiting for half an hour. When she sees Mr. Hopkins, she says ""____""",1. I won't be long 2. I must apologize 3. I hope you're all right 4. I'm sorry that you're here 5. I'd like to send my regards to you,2. I must apologize,TRUE,TRUE,TRUE
+2019,14,"Situation: Edward has just missed his train. He calls his wife to tell her that he will be home late. She says ""____""",1. No problem 2. Is that alright 3. You won't miss it 4. You'll get used to it 5. I hope you'll get over it,1. No problem,TRUE,TRUE,TRUE
+2019,15,"Situation: A couple sitting behind Cathy in the movie theater keep talking, which disturbs her. So, Cathy says to them politely ""____""","1. I'm sorry you're rude 2. What a noise 3. I can't stand you talking 4. Don't talk too much 5. I'm sorry, but you're annoying others","5. I'm sorry, but you're annoying others",TRUE,TRUE,TRUE
+2019,16,"By the time John and Kate arrived at the auditorium, all the doors ""____""",1. are locked 2. had been locked 3. are locking 4. had been locking 5. would have locked,2. had been locked,TRUE,TRUE,TRUE
+2019,17,"The new girl in my class admitted that she had lost the borrowed books and she ""____"" willing to pay the fine",1. will have been 2. has been 3. was 4. had been 5. was being,3. was,TRUE,TRUE,TRUE
+2019,18,"In the box of five, I found two sets of broken cups and saucers and ""____""",1. unbroken ones were the rest 2. the rest three unbroke 3. the rest were unbroken 4. others unbroke 5. three others were the ones unbreak,3. the rest were unbroken,TRUE,TRUE,TRUE
+2019,19,"Thomas Jones, ""____"", has been chosen mayor of the town to the university",1. with whom I used to commute 2. I used to commute with whom 3. that I used to commute with 4. with who I used to commute 5. I used to commute with him,1. with whom I used to commute,TRUE,TRUE,TRUE
+2019,20,"The new student from the city is not yet accustomed ""____"" local spicy food",1. to eat 2. eat 3. eating 4. to eating 5. to be eating,4. to eating,TRUE,TRUE,TRUE
+2019,21,"The registration official ""____"" all the senior students to collect their deposit money but he forgot to do so",1. was to remind 2. had reminded 3. was reminding 4. reminded 5. would be reminding,2. had reminded,TRUE,TRUE,TRUE
+2019,22,____ beside his damaged vehicle,1. The motorist in the middle of the road lying 2. Lay in the middle of the road the motorist 3. In the middle of the road lay the motorist 4. In the road the motorist lay in the middle 5. In the road in the middle the motorist lay,3. In the middle of the road lay the motorist,TRUE,TRUE,TRUE
+2019,23,____ to the L.P. National Park since all the facilities were renovated and improved,1. There have been a lot of visitors 2. They have been a lot of visitors 3. A lot of visitors they have been 4. A lot of visitors there have been 5. There have had a lot of visitors,1. There have been a lot of visitors,TRUE,TRUE,TRUE
+2019,24,"Paula wants to make a birthday cake for her daughter, but she does not have _____ sugar left.",1. many 2. some 3. much 4. any of 5. an amount of,3. much,TRUE,TRUE,TRUE
+2019,25,"_____Jimmy smoked, _____ from his illness.",1. Little / he recovered fast 2. The least / faster he recovered 3. The less the faster he recovered 4. The little / he recovered fast 5. The least / he recovered faster,5. The least / he recovered faster,TRUE,TRUE,TRUE
+2019,26,"Directions: There are two passages in this section. In each passage, five mistakes are underlined. Following each passage, find the corrections of the underlined mistakes. Choose the BEST corrections.  Passage 1: Items 26-30 A mother had put her little boy to bed and thought he had fallen asleep when he came downstairs and asked for a glass of water. The mother 26(had given) him a glass, and off he went to bed. However, a 27(few minutes late), he was back for more water. The mother wondered how he could be 28(enough thirsty) but gave the water to him anyway. A minute later, the kid was back. ""Can I have 29(the other water glass)?"" he asked. ""What's wrong with you?"" exclaimed the mother. ""That's the third glass of water 30(of night). How come you're so thirsty?""  ""Oh,"" said the little boy, ""The water's not for me. The roof's on fire.""",1. would have given 2. had been giving 3. gave 4. was giving 5. has given,3. gave,TRUE,TRUE,TRUE
+2019,27,"Directions: There are two passages in this section. In each passage, five mistakes are underlined. Following each passage, find the corrections of the underlined mistakes. Choose the BEST corrections.  Passage 1: Items 26-30 A mother had put her little boy to bed and thought he had fallen asleep when he came downstairs and asked for a glass of water. The mother 26(had given) him a glass, and off he went to bed. However, a 27(few minutes late), he was back for more water. The mother wondered how he could be 28(enough thirsty) but gave the water to him anyway. A minute later, the kid was back. ""Can I have 29(the other water glass)?"" he asked. ""What's wrong with you?"" exclaimed the mother. ""That's the third glass of water 30(of night). How come you're so thirsty?""  ""Oh,"" said the little boy, ""The water's not for me. The roof's on fire.""",1. later a few minute 2. a few minute late 3. very few minutes late 4. later few minutes 5. a few minutes later,5. a few minutes later,TRUE,TRUE,TRUE
+2019,28,"Directions: There are two passages in this section. In each passage, five mistakes are underlined. Following each passage, find the corrections of the underlined mistakes. Choose the BEST corrections.  Passage 1: Items 26-30 A mother had put her little boy to bed and thought he had fallen asleep when he came downstairs and asked for a glass of water. The mother 26(had given) him a glass, and off he went to bed. However, a 27(few minutes late), he was back for more water. The mother wondered how he could be 28(enough thirsty) but gave the water to him anyway. A minute later, the kid was back. ""Can I have 29(the other water glass)?"" he asked. ""What's wrong with you?"" exclaimed the mother. ""That's the third glass of water 30(of night). How come you're so thirsty?""  ""Oh,"" said the little boy, ""The water's not for me. The roof's on fire.""",1. thirsty enough 2. such thirsty 3. that thirsty 4. thirsty much 5. too thirsty,3. that thirsty,TRUE,TRUE,TRUE
+2019,29,"Directions: There are two passages in this section. In each passage, five mistakes are underlined. Following each passage, find the corrections of the underlined mistakes. Choose the BEST corrections.  Passage 1: Items 26-30 A mother had put her little boy to bed and thought he had fallen asleep when he came downstairs and asked for a glass of water. The mother 26(had given) him a glass, and off he went to bed. However, a 27(few minutes late), he was back for more water. The mother wondered how he could be 28(enough thirsty) but gave the water to him anyway. A minute later, the kid was back. ""Can I have 29(the other water glass)?"" he asked. ""What's wrong with you?"" exclaimed the mother. ""That's the third glass of water 30(of night). How come you're so thirsty?""  ""Oh,"" said the little boy, ""The water's not for me. The roof's on fire.""",1. one other water glass 2. another glass of water 3. another water glass 4. the other glass of water 5. one another glass of water,2. another glass of water,TRUE,TRUE,TRUE
+2019,30,"Directions: There are two passages in this section. In each passage, five mistakes are underlined. Following each passage, find the corrections of the underlined mistakes. Choose the BEST corrections.  Passage 1: Items 26-30 A mother had put her little boy to bed and thought he had fallen asleep when he came downstairs and asked for a glass of water. The mother 26(had given) him a glass, and off he went to bed. However, a 27(few minutes late), he was back for more water. The mother wondered how he could be 28(enough thirsty) but gave the water to him anyway. A minute later, the kid was back. ""Can I have 29(the other water glass)?"" he asked. ""What's wrong with you?"" exclaimed the mother. ""That's the third glass of water 30(of night). How come you're so thirsty?""  ""Oh,"" said the little boy, ""The water's not for me. The roof's on fire.""",1. during tonight 2. for a night 3. of this night 4. within a night 5. tonight,5. tonight,TRUE,TRUE,TRUE
+2019,31,"Passage 2: Items 31-35 Many people believe that it is unlucky to walk under a ladder. Many others think that 31(break the mirror) or opening an umbrella indoors are signs of bad luck. It is 32(considered) unlucky if the 13th day of a month falls on a Friday. 33(In addition), finding a four-leaf clover, owning a rabbit's foot, or 34(seventh child of a family) are all signs of good luck. People who believe in things are said to be 35(superstitious).",1. to break mirrors 2. break a mirror 3. having broken mirrors 4. broke the mirror 5. breaking a mirror,5. breaking a mirror,TRUE,TRUE,TRUE
+2019,32,"Passage 2: Items 31-35 Many people believe that it is unlucky to walk under a ladder. Many others think that 31(break the mirror) or opening an umbrella indoors are signs of bad luck. It is 32(considered) unlucky if the 13th day of a month falls on a Friday. 33(In addition), finding a four-leaf clover, owning a rabbit's foot, or 34(seventh child of a family) are all signs of good luck. People who believe in things are said to be 35(superstitious).",1. was being considered 2. was considering 3. is considering 4. is considered 5. is to be considering,4. is considered,TRUE,TRUE,TRUE
+2019,33,"Passage 2: Items 31-35 Many people believe that it is unlucky to walk under a ladder. Many others think that 31(break the mirror) or opening an umbrella indoors are signs of bad luck. It is 32(considered) unlucky if the 13th day of a month falls on a Friday. 33(In addition), finding a four-leaf clover, owning a rabbit's foot, or 34(seventh child of a family) are all signs of good luck. People who believe in things are said to be 35(superstitious).",1. On the other hand 2. Nevertheless 3. Even so 4. Therefore 5. In other words,1. On the other hand,TRUE,TRUE,TRUE
+2019,34,"Passage 2: Items 31-35 Many people believe that it is unlucky to walk under a ladder. Many others think that 31(break the mirror) or opening an umbrella indoors are signs of bad luck. It is 32(considered) unlucky if the 13th day of a month falls on a Friday. 33(In addition), finding a four-leaf clover, owning a rabbit's foot, or 34(seventh child of a family) are all signs of good luck. People who believe in things are said to be 35(superstitious).",1. be a seven child 2. being the seventh child 3. have seven children 4. to have seven children 5. to have the seventh child,2. being the seventh child,TRUE,TRUE,TRUE
+2019,35,"Passage 2: Items 31-35 Many people believe that it is unlucky to walk under a ladder. Many others think that 31(break the mirror) or opening an umbrella indoors are signs of bad luck. It is 32(considered) unlucky if the 13th day of a month falls on a Friday. 33(In addition), finding a four-leaf clover, owning a rabbit's foot, or 34(seventh child of a family) are all signs of good luck. People who believe in things are said to be 35(superstitious).",1. all the things 2. such the thing 3. such things 4. all things 5. the thing,3. such things,TRUE,TRUE,TRUE
+2019,36,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. What ever you will need are 2. Those which you need will be 3. What do you need must be 4. What you need are 5. That you need is,4. What you need are,FALSE,TRUE,TRUE
+2019,37,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. It is about the same size as 2. The size is about the same with 3. You have about the size as same as 4. You have about the same size like 5. It is the size about the same with,1. It is about the same size as,FALSE,TRUE,TRUE
+2019,38,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. Thirdly 2. Besides 3. Next 4. Therefore 5. Also,3. Nex,FALSE,TRUE,TRUE
+2019,39,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. Put them into 2. Throw it under 3. Paste these onto 4. Place it around 5. Arrange them next to,3. Paste these onto,FALSE,TRUE,TRUE
+2019,40,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. The paper covered balloon in a 2. A covering paper on the balloon to 3. A balloon with paper covering to 4. The covering paper of balloon on 5. Paper covered a balloon to the,1. The paper covered balloon in a,FALSE,TRUE,TRUE
+2019,41,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. To fit your head 2. Your head is fitting 3. For your head fitted 4. For fitting your head 5. That your head must be fitted,1. To fit your head,FALSE,TRUE,TRUE
+2019,42,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.","1. When making hair, glue to 2. Make a hair, glue to 3. To make hair, glue on 4. You use glue to make hair of 5. For the hair, you make glue with","3. To make hair, glue on",FALSE,TRUE,TRUE
+2019,43,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.","1. Also your face must be drawn with wrinkles by 2. Then draw wrinkles onto your face with 3. The step to follow is drawing wrinkles for your face by 4. Following is drawing wrinkles onto your face using 5. To follow, wrinkles are drawn onto your face with",2. Then draw wrinkles onto your face with,FALSE,TRUE,TRUE
+2019,44,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. For your frowning 2. For you to frown 3. When you frown 4. While you frowned 5. How you frown,3. When you frown,FALSE,TRUE,TRUE
+2019,45,"Writing Ability (Items 36-45) Directions: Choose the word, phrase, clause, or sentence that BEST completes each blank in the passage. The set of pictures below will help you. Passage: Do you want to change your appearance with a wig and some wax crayons? (36)______ a balloon, paste, newspaper, and black or brown wax crayons. Now, follow these steps. First, blow up a balloon until (37) ______ your head. (38)______, tear the newspaper into 5 cm squares and (39) ______ the balloon, overlapping each piece. Leave the area around the neck of the balloon uncovered. Put (40)______ warm place for a week, then pop the balloon and carefully peel off the paper shell. Trim the base (41)______. (42)______ strands of wool, pieces of old fur, or even crunched up crepe paper. (43) _____ the crayons. Emphasize the lines that appear on your forehead. (44)______ Put lines around your eyes, nose, and mouth. (45)______ cut out little bits of black paper the same size as your front teeth. Lick  them and stick them into position.",1. For add effect 2. Having effects added 3. To have effects added 4. Having added effect 5. For added effect,5. For added effect,FALSE,TRUE,TRUE
+2019,46,"Vocabulary: (Items 46-50) Directions: Choose the BEST alternatives to complete the passage. Passage: Ross Levy has been designing and making his own toys since he was a schoolboy. His workshop at the Art and Handicrafts Center now has over 90 (46)______  wooden toys (47)______ , from small animals to a hand-carved rocking horse. Ross uses pinus and rimu wood. When the (48)______ , they are hand-sanded, put together, and finally (49)______  with soybean oil. Ross Levy also has export orders to Europe, the United States, Canada, Asia, and Australia. Mail orders are always welcome. They will be packed and posted (50).______ ",1. Different 2. Namely 3. Unlikely 4. Unpopular 5. Artificial,1. Different,TRUE,TRUE,TRUE
+2019,47,"Vocabulary: (Items 46-50) Directions: Choose the BEST alternatives to complete the passage. Passage: Ross Levy has been designing and making his own toys since he was a schoolboy. His workshop at the Art and Handicrafts Center now has over 90 (46)______  wooden toys (47)______ , from small animals to a hand-carved rocking horse. Ross uses pinus and rimu wood. When the (48)______ , they are hand-sanded, put together, and finally (49)______  with soybean oil. Ross Levy also has export orders to Europe, the United States, Canada, Asia, and Australia. Mail orders are always welcome. They will be packed and posted (50).______ ",1. Ordering 2. Sequencing 3. Ranging 4. Spreading 5. Lining,3. Ranging,TRUE,TRUE,TRUE
+2019,48,"Vocabulary: (Items 46-50) Directions: Choose the BEST alternatives to complete the passage. Passage: Ross Levy has been designing and making his own toys since he was a schoolboy. His workshop at the Art and Handicrafts Center now has over 90 (46)______  wooden toys (47)______ , from small animals to a hand-carved rocking horse. Ross uses pinus and rimu wood. When the (48)______ , they are hand-sanded, put together, and finally (49)______  with soybean oil. Ross Levy also has export orders to Europe, the United States, Canada, Asia, and Australia. Mail orders are always welcome. They will be packed and posted (50).______ ",1. Shapes 2. Fractions 3. Diagrams 4. Charts 5. Images,1. Shapes,TRUE,TRUE,TRUE
+2019,49,"Vocabulary: (Items 46-50) Directions: Choose the BEST alternatives to complete the passage. Passage: Ross Levy has been designing and making his own toys since he was a schoolboy. His workshop at the Art and Handicrafts Center now has over 90 (46)______  wooden toys (47)______ , from small animals to a hand-carved rocking horse. Ross uses pinus and rimu wood. When the (48)______ , they are hand-sanded, put together, and finally (49)______  with soybean oil. Ross Levy also has export orders to Europe, the United States, Canada, Asia, and Australia. Mail orders are always welcome. They will be packed and posted (50).______ ",1. Patched 2. Painted 3. Beautified 4. Coloured 5. Coated,5. Coated,TRUE,TRUE,TRUE
+2019,50,"Vocabulary: (Items 46-50) Directions: Choose the BEST alternatives to complete the passage. Passage: Ross Levy has been designing and making his own toys since he was a schoolboy. His workshop at the Art and Handicrafts Center now has over 90 (46)______  wooden toys (47)______ , from small animals to a hand-carved rocking horse. Ross uses pinus and rimu wood. When the (48)______ , they are hand-sanded, put together, and finally (49)______  with soybean oil. Ross Levy also has export orders to Europe, the United States, Canada, Asia, and Australia. Mail orders are always welcome. They will be packed and posted (50).______ ",1. Overseas 2. Remotely 3. Outwards 4. Aboard 5. Externally,1. Overseas,TRUE,TRUE,TRUE
+2019,51,The least visited countries were______.,1. China and Thailand 2. Brunei and Bhutan 3. Nepal and Mongolia 4. Mongolia and Bhutan 5. Nepal and Brunei,2. Brunei and Bhutan,FALSE,TRUE,TRUE
+2019,52,The number of tourists visiting China in 2017 was million______.,1. 24.03 2. 32.58 3. 59.27 4. 60 5. 70,3. 59.27,FALSE,TRUE,TRUE
+2019,53,The chart demonstrating the figures was______.,1. a record since 2017 2. a biannual report 3. arranged in alphabetical order 4. reported by the World Tourism Organization 5. the number of travelers to Southeast Asia,4. reported by the World Tourism Organization,FALSE,TRUE,TRUE
+2019,54,The number of visitors to Japan and South Korea differs by million,1. 1.33 2. 10.08 3. 10.80 4. 11.12 5. 13.52,3. 10.80,FALSE,TRUE,TRUE
+2019,55,The figures in the chart represent the ____ in 2017,1. data posted by ANN 2. number of travelers to Asia 3. list of visitors around the world 4. most visited countries in Southeast Asia 5. ten top popular countries in Southeast Asia,2. number of travelers to Asia,FALSE,TRUE,TRUE
+2019,56,Bumstead believes that doing a yoga headstand,1. during a break is necessary 2. before starting work helps keep ideas fresh 3. for a short time makes him feel sleepy 4. after work helps him feel relaxed 5. helps him focus well,5. helps him focus well,TRUE,TRUE,TRUE
+2019,57,Bumstead suggests that his boss______.,1. avoid doing a headstand 2. take a break and do yoga 3. take a regular break 4. take a yoga class 5. spend more time doing yoga,2. take a break and do yoga,TRUE,TRUE,TRUE
+2019,58,"According to Bumstead, it can be concluded that______.",1. only he should take a break 2. yoga helps him work better 3. a yoga break is good exercise 4. yoga can help improve one's health 5. all employees should take a yoga break,2. yoga helps him work better,TRUE,TRUE,TRUE
+2019,59,The conversation between Bumstead and his boss shows that,1. the boss does not like taking a yoga break 2. doing yoga regularly helps one lose weight 3. the boss had a bad experience with a headstand 4. a yoga break is common practice in the office 5. one can have an injury while doing yoga,3. the boss had a bad experience with a headstand,TRUE,TRUE,TRUE
+2019,60,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.       The news report begins with a story about______.",1. a camper van attacked by dingoes on Fraser Island 2. an ancient protected wild animal in Australia 3. a 14-month-old boy killed by a wild animal 4. a popular but dangerous Australian holiday island 5. a dingo pulling a sleeping child from a camper van,5. a dingo pulling a sleeping child from a camper van,TRUE,TRUE,TRUE
+2019,61,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.       According to the news______.",1. more than one dingo attacked the camp 2. the dingo was finally killed by the boy's parents 3. the boy's parents could rescue him from dingoes 4. dingoes should not be protected in Australia 5. the little boy's scream drove the dingo away,3. the boy's parents could rescue him from dingoes,TRUE,TRUE,TRUE
+2019,62,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.       The case of baby Azaria reveals that______.",1. the baby must have been left alone in the camping tent 2. everyone believed that a dingo took away the baby 3. Azaria's mother was jailed for telling lies about a dingo 4. the court took over 30 years to decide that a dingo killed the baby 5. the camping ground is on a remote island,4. the court took over 30 years to decide that a dingo killed the baby,TRUE,TRUE,TRUE
+2019,63,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.       From the news report, we learn that______.","1. dingoes are ancient animals found only on Fraser Island 2. Aboriginal communities protected dingoes 4,000 years ago 3. dingoes are protected in many parts of Australia 4. dingoes are protected because they are rarely seen in parks 5. Azaria was actually killed by a dingo in 2012",3. dingoes are protected in many parts of Australia,TRUE,TRUE,TRUE
+2019,64,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.      We learn from the news report that dingoes______.",1. are the oldest native Australian animals 2. have attacked sleeping children at night 3. killing baby Azaria horrified camping tourists 4. and Aboriginal communities have a close relationship 5. live to be very old,2. have attacked sleeping children at night,TRUE,TRUE,TRUE
+2019,65,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.       A popular attraction (line 14) refers to______.",1. Fraser Island 2. dingoes 3. species 4. national parks 5. camping tourists,2. dingoes,TRUE,TRUE,TRUE
+2019,66,"Sydney: A dingo dragged a sleeping toddler from a camper van on a popular Australian holiday island late on Thursday, but his father awoke and pulled his 14-month-old son from the jaws of the animal. The parents woke up to the baby screaming, chased after him, and had to fight the dingoes off to take the 14-month-old boy away. The boy suffered head and neck injuries in the attack on Fraser Island off the northeast coast and was taken to hospital. In 1980, baby Azaria Chamberlain disappeared from a tent in a camping ground in Australia's outback, with her mother claiming she was taken by a dingo. The baby's body was never found, and Azaria's mother was jailed for three years over her daughter's death. It was not until 2012 that a court ruled that a dingo had killed Azaria. Dingoes, introduced to Australia about 4,000 years ago, are a protected species on Fraser Island and are a popular attraction for camping tourists. They are also protected in Queensland's national parks, World Heritage areas, Aboriginal reserves, and the Australian Capital Territory. Elsewhere, they are declared a pest species.      The best headline of this news article is______.",1. Dingoes draw tourists to Fraser Island 2. Dingoes on Fraser Island attack camping tourists 3. Dingo drags toddler from bed on Fraser Island 4. Toddler killed on Fraser Island by dingoes 5. Baby Azaria killed on camping ground in Australia,3. Dingo drags toddler from bed on Fraser Island,TRUE,TRUE,TRUE
+2019,67,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player    The letter to Ann Landers comes from______.",1. an experienced physical trainer 2. Jeremy's mother 3. a former football player 4. a novice football coach 5. a young football player,3. a former football player,TRUE,TRUE,TRUE
+2019,68,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player    The letter shows the writer's______.","1. worry about the danger of football to young players 2. reluctance to coach young football players 3. complaint about injuries he got from playing football 4. sympathy for parents who force children to play football 5. reasons for retiring from the ""Taxi Squad""",1. worry about the danger of football to young players,TRUE,TRUE,TRUE
+2019,69,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player    ""Turned me off"" (line 8) means ""felt_______""",1. anxious 2. hopeless 3. disgusted 4. disappointed 5. depressed,3. disgusted,TRUE,TRUE,TRUE
+2019,70,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player   The writer thinks that______.",1. children from different schools should not play football together 2. parents and football coaches should be more patient 3. injuries from hits in playing football often lead to surgery 4. young football players must be properly coached about self-protection 5. a football coach for young children does not need much training,4. young football players must be properly coached about self-protection,TRUE,TRUE,TRUE
+2019,71,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player   The writer believes that______.",1. Injuries in playing football can be avoided if players do not hit hard 2. Hard hits in playing football can make players stronger 3. Football is not suitable for pre-teenagers 4. Young football players are not hurt easily even if poorly coached 5. Children not wanting to play football can stand hard hits,3. Football is not suitable for pre-teenagers,TRUE,TRUE,TRUE
+2019,72,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player   It can be inferred from the letter that______.","1. Injuries in professional football result from improper coaching 2. Parents believe that any child can play football well 3. Professional football coaches for children are sympathetic 4. Children should not be forced to play football if they are not ready 5. The ""Taxi Squad"" was not famous",4. Children should not be forced to play football if they are not ready,TRUE,TRUE,TRUE
+2019,73,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player   Vulnerable (line 15) means______.",1. Weak and easily hurt 2. Patient and ready to fight 3. Tough and durable 4. Unsafe and dangerous 5. Unenjoyable and tired,1. Weak and easily hurt,TRUE,TRUE,TRUE
+2019,74,"Dear Ann Landers, I'd like to respond to the letter from the woman whose son ""Jeremy"" was forced by his father to play football. I am an athlete. I played high school and college ball and spent six years as part of 'George Halas' infamous ""Taxi Squad"" in the early 1960s. When I retired, I spent many hours coaching pee-wee football for boys ages 10 to 12. Ann, watching those kids get hit and hit hard—and seeing the other coaches and parents pushing their children to get up and take it over and over again—really turned me off. Children that age are still developing physically. Hard hits can do permanent damage that may not show up until later. I know; I have knees that ache and buckle, back pain like you wouldn't believe, and I have had surgery on my spine. All of this from being hit by guys while playing a game. In grade school-level football, children who weigh 40 kilograms are sometimes pitted against others who weigh 54 kgs. These kids are poorly coached about protecting themselves, and I can tell you, the ones who really don't want to play are the most vulnerable. I speak from experience. Ex-Football Player   The tone of this letter is______.",1. Neutral 2. Instructive 3. Humorous 4. Sarcastic 5. Concerned,5. Concerned,TRUE,TRUE,TRUE
+2019,75,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  Ring (line 1) means______.",1. Sound familiar 2. Make a call 3. Sound like a bell 4. Become deaf 5. Hear an annoying sound,5. Hear an annoying sound,TRUE,TRUE,TRUE
+2019,76,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  It (line 4) refers to______.",1. Loud rock music 2. Ringing in the ears 3. Classical music 4. A concert or club 5. Type of music,2. Ringing in the ears,TRUE,TRUE,TRUE
+2019,77,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  The writer's purpose is to______.",1. Describe the loudness of classical music and rock music 2. Compare the effects of loud classical music and loud rock music 3. Explain why music is illegal in the workplace 4. Emphasize the effects of loud noise on rock musicians' hearing 5. Warn people of the danger of exposure to loud noise,5. Warn people of the danger of exposure to loud noise,TRUE,TRUE,TRUE
+2019,78,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  	According to the extract______.","1. Loud music can damage one's general health 2. Young people like to listen to rock music 3. Noise in the workplace should not exceed 90 dBA over an eighth-hour period 4. Classical music, as well as rock music, needs electric amplification 5. Hearing function drops off sharply when a person gets olde",3. Noise in the workplace should not exceed 90 dBA over an eighth-hour period,TRUE,TRUE,TRUE
+2019,79,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  	The writer suggests that one______.",1. Completely stop listening to very loud rock music 2. Check one's hearing after going to a rock concert 3. Listen to classical music rather than rock music 4. Expose one's hearing to very loud noise gradually 5. Stay away from anything with very high noise levels,5. Stay away from anything with very high noise levels,TRUE,TRUE,TRUE
+2019,80,"What is it about loud rock music that makes your ears ring after several hours at a concert or club? Does loud classical music have the same effect? Ringing in the ears is called tinnitus. In the circumstances described above, it can often be accompanied by a temporary loss of hearing known as (line 5) temporary threshold shift and indicates damage to the nerves of the inner ear caused by excessive noise exposure. The criterion is not the type of music listened to but the sound energy involved. Rock music, being prone to electric amplification, can generate high noise levels. This tends not to be the case with classical music. (line 10) Repeated exposure to high noise levels can lead to permanent and irreversible hearing damage, and because of this, noise in the workplace is subject to legislation, the maximum permitted exposure level being 90 dBA over an eight-hour shift. Damage of this nature tends to affect hearing mainly at a frequency of (line 15) about 4 kilohertz and presents a characteristic profile on an audiogram. This loss is insidious and may not be noticeable to the sufferer until natural hearing loss through aging begins to occur. At this point, hearing function may start to drop off sharply, and it is, unfortunately, far too late to do anything about it.  (line 20) It is best not to expose one's hearing to very high noise levels, but if it does occur, it is important to allow full recovery 16 hours before re-exposure to the sound. You may wonder if rock musicians suffer from this form of deafness; they do.  The writer DOES NOT mention that______.",1. The type of music has no effect on temporary hearing loss 2. Rock music depends on electric amplification to increase loudness 3. Listening to very loud rock music can lead to hearing damage 4. Classical music needs amplifiers to generate high noise level 5. The frequency of about 4 kilohertz can affect hearing ability,4. Classical music needs amplifiers to generate high noise level,TRUE,TRUE,TRUE
